@@ -1,0 +1,15 @@
+# Private backups
+backups/
+
+# Private environment files
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
